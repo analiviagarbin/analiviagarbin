@@ -14,5 +14,7 @@
   <img align="center" alt="Ana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ana-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Dog-gif" height="150" style="border-radius:50px;" src="https://cur.glitter-graphics.net/pub/3708/3708328xulxi17yow.gif">
+  <img align="right" alt="Dog-gif" height="150" style="border-radius:50px;" src="https://data.whicdn.com/images/152926369/original.gif">
 </div>
+  
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31g26i5zd7tya2d6fbbmt3c7ovde&cover_image=true&theme=natemoo-re&bar_color=ff00ff&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31g26i5zd7tya2d6fbbmt3c7ovde&redirect=true)
