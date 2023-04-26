@@ -1,6 +1,4 @@
-### Oio! Eu sou a Ana Lívia Garbin! 👋
-
-- Estudando desenvolvimento-web full-stack
+### Hello World!
 
 <div align="center">
   <a href="https://github.com/analiviagarbin">
