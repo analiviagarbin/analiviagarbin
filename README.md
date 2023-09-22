@@ -13,8 +13,6 @@
 
 </div>
 
-<div style="display: flex; align-items: flex-start;"><img src="" alt="icon" width="57" height="57" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="57" height="57" /></div><div style="display: flex; align-items: flex-start;"><img src="" alt="icon" width="57" height="57" /></div>
-
 ### Studying in this moment:
 <div align="left">
    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="40" height="40" />
