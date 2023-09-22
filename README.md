@@ -2,7 +2,7 @@
 
 ### Main skills:                                                                                               
 <div align="left">
-   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
       </a>
     </td>
    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
