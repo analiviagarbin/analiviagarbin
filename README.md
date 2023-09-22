@@ -9,8 +9,11 @@
       </a>
     </td>
    <img align="center" alt="Ana-C" height="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+      </a>
+    </td>   
    <img align="center" alt="Ana-C" height="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-
+      </a>
+    </td>
 </div>
 
 ### Studying in this moment:
